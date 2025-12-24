@@ -6,7 +6,7 @@ The project demonstrates how SQL can be used to retrieve meaningful information 
 
 The queries apply essential SQL concepts such as `JOIN`, `WHERE`, `GROUP BY`, `HAVING`, and subqueries to solve practical data-retrieval problems.
 
-All final SQL queries are stored in the **`Assignmentqueries.sql`** file.
+All final SQL queries are stored in the [`Assignmentqueries.sql`](./Assignmentqueries.sql) file.
 
 ---
 
