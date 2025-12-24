@@ -54,8 +54,5 @@ Using `GROUP BY` and `HAVING`, it returns only vehicles that have been booked mo
 **Purpose:**  
 To identify frequently booked vehicles.
 
----
 
-## Conclusion
-This project demonstrates practical use of SQL to analyze and manage data in a relational database.  
-By applying joins, filtering, aggregation, and subqueries, the queries provide valuable insights into vehicle usage and booking patterns.
+
